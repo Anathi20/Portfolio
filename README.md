@@ -23,4 +23,10 @@ If you're building your **portfolio** to be production-ready, we recommend enabl
 
 ---
 
-This is a **portfolio project** built using React and V
+This is a **portfolio project** built using React and Vite. It showcases my skills, projects, and experiences, providing an interactive way for visitors to learn more about my work and background.
+
+## Setup and Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Anathi20/Portfolio.git
