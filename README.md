@@ -31,9 +31,12 @@ This is a **portfolio project** built using React and Vite. It showcases my skil
    ```bash
    git clone https://github.com/Anathi20/Portfolio.git
 
-2.**Navigate into the Project Directory**   
-  ```bash
+ 2. **Navigate into the Project Directory**:
+   ```bash
    cd Portfolio
+
+
+
 
 
 
