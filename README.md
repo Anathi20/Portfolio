@@ -35,6 +35,11 @@ This is a **portfolio project** built using React and Vite. It showcases my skil
    ```bash
    cd Portfolio
 
+3. **Install dependencies**:
+   ```bash
+   npm install
+
+
 
 
 
