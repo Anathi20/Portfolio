@@ -33,10 +33,8 @@ This is a **portfolio project** built using React and Vite. It showcases my skil
 
 2.**Navigate into the Project Directory**   
   ```bash
-  cd Portfolio
-3. **Run the Development Server**:
-   ```bash
-     npm run dev
+     cd Portfolio
+
 
 
 
