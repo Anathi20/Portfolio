@@ -1,0 +1,99 @@
+.blue-button {
+    background-color: #2563eb; 
+    color: rgb(255, 253, 253);
+    padding: 0.9rem 6.rem;
+    border-radius: 0.3rem;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 400px;
+    height: 60px;
+    font-size: 20px;
+    
+  }
+  
+  .blue-button:hover {
+    background-color: #1e40af; 
+  }
+  .butt{
+    padding-top: 30px;
+  }
+  @keyframes colorMotion {
+    0% {
+      color: #ffffff;
+    }
+    50% {
+      color: #00f7ff; 
+    }
+    100% {
+      color: #ffffff;
+    }
+  }
+  
+  .nav-links a {
+    display: inline-block;
+    position: relative;
+    font-weight: bold;
+    font-size: 1.25rem;
+    transition: transform 0.3s ease, text-shadow 0.3s ease;
+  }
+  
+  .nav-links a:hover {
+    animation: colorMotion 2s ease-in-out infinite;
+    text-shadow: 0 0 10px rgba(0, 123, 255, 0.7), 0 0 20px rgba(0, 123, 255, 0.5);
+    transform: scale(1.1);
+  }
+  
+
+.contact-button {
+  margin-top: 1rem;
+  background-color: #3b82f6; 
+  color: white;
+  font-weight: 600;
+  padding: 20px;
+  padding-left: 60px;
+  padding-right: 60px;
+  border-radius: 0.5rem;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  border: none;
+  cursor: pointer;
+  
+}
+
+.contact-button:hover {
+  background-color: #2563eb; 
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+  
+  .project-button {
+  text-align: center;
+  border: 2px solid rgb(255, 255, 255); 
+  color: white;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;   
+  transition: background-color 0.3s ease;
+  text-decoration: none;
+  display: block;
+}
+
+ .project-button2 {
+  text-align: center;
+  border: 2px slid rgb(255, 225, 54); 
+  color: white;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;   
+  transition: background-color 0.3s ease;
+  text-decoration: none;
+  display: block;
+}
+
+
+.project-button:hover {
+  background-color: #374151; 
+  color: white;
+}
