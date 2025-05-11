@@ -33,7 +33,7 @@ This is a **portfolio project** built using React and Vite. It showcases my skil
 
 2.**Navigate into the Project Directory**   
   ```bash
-     cd Portfolio
+   cd Portfolio
 
 
 
