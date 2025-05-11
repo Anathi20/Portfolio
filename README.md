@@ -5,7 +5,6 @@ This template provides a minimal setup to get React working in Vite with Hot Mod
 ## Features
 
 - **Fast Refresh**: Powered by Vite's HMR and React plugins.
-- **Responsive Design**: Built with a focus on mobile-first design and desktop compatibility.
 - **Clean Architecture**: Organized in components for easy management and expansion.
 - **Interactive Components**: Dynamic sections like skill displays, project showcases, and contact forms.
 - **Fast Loading**: Optimized for speed, thanks to Vite's fast build and reload times.
