@@ -39,7 +39,9 @@ This is a **portfolio project** built using React and Vite. It showcases my skil
    ```bash
    npm install
 
-
+3. **Run the Development Server**:
+   ```bash
+   npm run dev 
 
 
 
